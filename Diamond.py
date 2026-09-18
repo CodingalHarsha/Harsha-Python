@@ -24,5 +24,5 @@ for i in range(1,halfdiamond):
     num = 1
     for j in range(1, 2*(halfdiamond-i)):
         print(end=str(num))
-        num = num+1
+        num = num+  1
     print()
